@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Microsoft.Bot.Builder.Integration.AspNet.WebApi": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7231",
+      "launchBrowser": false
+    }
+  }
+}
