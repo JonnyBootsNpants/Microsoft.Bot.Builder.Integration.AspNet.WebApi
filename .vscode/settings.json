@@ -7,5 +7,15 @@
     "debug.internalConsoleOptions": "neverOpen",
     "azureFunctions.preDeployTask": "publish (functions)",
     "files.autoSave": "onWindowChange",
-    "jupyter.allowUnauthorizedRemoteConnection": true
+    "jupyter.allowUnauthorizedRemoteConnection": true,
+    "aws.telemetry": false,
+    "editor.accessibilityPageSize": 10000,
+    "editor.accessibilitySupport": "off",
+    "anycode.language.features": {
+        "completions": false,
+        "references": false,
+        "highlights": false,
+        "outline": false,
+        "workspaceSymbols": false
+    }
 }
